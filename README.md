@@ -6,7 +6,7 @@
 
 - 🔭 Currently working as a Freelancer
 
-- 🌱 Currently navigating the exciting landscape of technology and innovation.
+- 🌱 Navigating the exciting landscape of technology and innovation.
 
 - 👯 Ready to collaborate on **new innovative ideas**
 
