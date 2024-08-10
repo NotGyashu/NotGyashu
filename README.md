@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gyashu Rahman</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A versatile programmer with expertise in modern web and software development
+ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notgyashu&label=Profile%20views&color=0e75b6&style=flat" alt="notgyashu" /> </p>
 
-- 🔭 I’m currently working on [my Social Media website](https://social-arena.vercel.app/)
+- 🔭 Currently working as a Freelancer
 
-- 🌱 I’m currently learning **Next.js, Data Structures and Algorithms**
+- 🌱 Currently navigating the exciting landscape of technology and innovation.
 
-- 👯 I’m looking to collaborate on **new innovative ideas**
+- 👯 Ready to collaborate on **new innovative ideas**
 
 - 👨‍💻 All of my projects are available at [https://gyashu.vercel.app/](https://gyashu.vercel.app/)
 
