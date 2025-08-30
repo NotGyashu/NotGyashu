@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gyashu Rahman
 
-**Full-Stack Engineer | AI Enthusiast | Systems Architect**
+**Software Engineer | AI-Powered Systems | Scalable Architect**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notgyashu)
@@ -15,7 +15,7 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 - 🔭 **Currently Building:** High-performance AI systems and developer tools
 - 🌱 **Exploring:** Advanced ML architectures, distributed systems, and compiler design
 - 💡 **Passion:** Transforming complex AI concepts into practical, scalable applications
-- 🏆 **LeetCode:** 1600+ rating (550+ problems solved)
+- 🏆 **LeetCode:** 1700+ rating (600+ problems solved)
 - ⚡ **Fun Fact:** I enjoy solving problems at the intersection of hardware and AI
 
 ---
@@ -95,11 +95,11 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
 ![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react&logoColor=white&style=for-the-badge)
 
-- 150+ pages/sec throughput via a multi-threaded C++ crawler with dynamic politeness & sitemap parsing.
-- Engineered a hybrid Rust + Python pipeline handling 250+ docs/sec, with optimized parsing, cleaning & metadata extraction.
+- High-throughput crawler – Achieved 150+ pages/sec using a multi-threaded work-stealing core with deduplication, connection pooling, adaptive batching, and domain-aware politeness.
+- Engineered an ultra‑fast hybrid Rust/Python pipeline delivering scalable, signal‑safe parallel processing, compact indexable chunks, and multilayer content‑quality scoring that emits production‑ready JSONL for OpenSearch with processing speed 100 doc/sec.
 - Built a production-grade FastAPI backend + OpenSearch indexer, enabling real-time ingestion, dual-priority queues & automated ISM policies.
-- Deployed an AI microservice for query intent detection, content scoring & reranking, streaming results via WebSockets.
-- Developed a responsive React frontend with analytics dashboards: diversity scores, domain stats & AI insights on live search results.
+- Deployed an AI microservice orchestrating multi‑model inference (Google/OpenAI/Transformers + smart‑template fallback) for summarization, query enhancement, entity extraction and reranking, with caching, optimized prompt and observability for low‑latency.
+- Modern React frontend: Responsive UI with Tailwind + Framer Motion, React Query caching, dark mode, voice search, and analytics dashboards.
 
 ---
 
@@ -191,7 +191,7 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 - **🚀 System Architecture:** Designing scalable AI-powered backend systems
 - **⚡ Performance Optimization:** Algorithm efficiency and bundle optimization
 - **🔧 Full-Stack Development:** Proficiency across entire development stack
-- **🧠 Problem Solving:** Strong algorithmic thinking (550+ LeetCode problems)
+- **🧠 Problem Solving:** Strong algorithmic thinking (600+ LeetCode problems)
 - **💡 Innovation:** Transforming research concepts into production applications
 
 ---
