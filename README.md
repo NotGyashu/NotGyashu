@@ -7,7 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B4B4B?style=flat-square&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
 
 ---
-
+<details>
+<summary>See more (Click to Expand)</summary>
+  
 ## 🚀 About Me
 
 I'm a passionate engineer who thrives on building scalable systems and innovative AI-powered solutions across multiple domains. I specialize in creating performant applications that bridge the gap between cutting-edge AI research and production-ready systems.
@@ -222,5 +224,5 @@ I'm always excited to discuss projects, innovative ideas, or potential collabora
 </div>
 
 ---
-
 > "The best way to predict the future is to invent it." - Alan Kay
+</details>
