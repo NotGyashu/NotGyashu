@@ -2,9 +2,9 @@
 
 **Software Engineer | AI-Powered Systems | Scalable Architect**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/notgyashu)
-[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/rahmangyashu178/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2C5D9B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyashu-rahman-299627224/)
+[![LeetCode](https://img.shields.io/badge/⚡_LeetCode-F79F1F?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rahmangyashu178/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B4B4B?style=flat-square&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
 
 ---
 
