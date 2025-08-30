@@ -76,17 +76,30 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 ## 🏗️ Featured Projects
 
 ### 🔍 A_Search_Engine
-**AI-Powered Web Crawler & Semantic Search Engine** | [`View Code`](https://github.com/notgyashu/A_Search_Engine)
+**AI-powered search engine with 150+ pages/sec crawling, 250+ docs/sec processing, scalable backend, and intelligent AI-driven reranking.** | [`View Code`](https://github.com/notgyashu/A_Search_Engine)
 
-![Rust](https://img.shields.io/badge/Rust-Core-000000?style=flat-square)
-![Python](https://img.shields.io/badge/Python-AI_Orchestration-3776AB?style=flat-square)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-Semantic_Search-005EB8?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-NLP-FF6F00?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Google GenAI](https://img.shields.io/badge/Google%20Generative%20AI-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154570?logo=python&logoColor=white&style=for-the-badge)
+![Rayon](https://img.shields.io/badge/Rayon-000000?logo=rust&logoColor=white&style=for-the-badge)
+![PyO3](https://img.shields.io/badge/PyO3-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Maturin](https://img.shields.io/badge/Maturin-000000?logo=python&logoColor=white&style=for-the-badge)
+![moodycamel ConcurrentQueue](https://img.shields.io/badge/ConcurrentQueue-4B8BBE?logo=cplusplus&logoColor=white&style=for-the-badge)
+![RE2](https://img.shields.io/badge/RE2%20Regex-4285F4?logo=google&logoColor=white&style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react&logoColor=white&style=for-the-badge)
 
-- Built hybrid Rust/Python crawling pipeline for high-throughput HTML extraction
-- Integrated OpenSearch with custom embeddings for efficient semantic search
-- Implemented AI-powered content understanding and classification
-- Achieved 25% faster processing through performance optimizations
+- 150+ pages/sec throughput via a multi-threaded C++ crawler with dynamic politeness & sitemap parsing.
+- Engineered a hybrid Rust + Python pipeline handling 250+ docs/sec, with optimized parsing, cleaning & metadata extraction.
+- Built a production-grade FastAPI backend + OpenSearch indexer, enabling real-time ingestion, dual-priority queues & automated ISM policies.
+- Deployed an AI microservice for query intent detection, content scoring & reranking, streaming results via WebSockets.
+- Developed a responsive React frontend with analytics dashboards: diversity scores, domain stats & AI insights on live search results.
 
 ---
 
@@ -108,30 +121,41 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 ### 🤖 Chrome-Assistant
 **Intelligent AI Browser Companion** | [`View Code`](https://github.com/notgyashu)
 
-![Chrome Extension](https://img.shields.io/badge/Chrome-MV3-4285F4?style=flat-square)
-![React](https://img.shields.io/badge/React-Context_Management-61DAFB?style=flat-square)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-AI_Inference-FF6F00?style=flat-square)
-![Google GenAI](https://img.shields.io/badge/Google_GenAI-NLP-4285F4?style=flat-square)
+![Manifest V3](https://img.shields.io/badge/Manifest-V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Google GenAI](https://img.shields.io/badge/Google-GenAI-4285F4?style=flat-square&logo=google&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-DeepLearning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-Responsive-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Webpack 5](https://img.shields.io/badge/Webpack-5-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-- Created intelligent Chrome extension with advanced AI context management
-- Integrated multiple AI models including Google GenAI for natural language understanding
-- Implemented real-time response system with TensorFlow.js inference
-- Optimized performance achieving 25% bundle size reduction
+
+- Created a Chrome extension for an intelligent in-page AI companion with advanced context management
+- Enhanced user interaction by embedding text features, improving usability by 30%.
+- Optimized performance with Webpack 5, reducing bundle size by 25% and ensuring real-time responses. 
 
 ---
 
 ### 🌐 Social-Arena
 **AI-Enhanced Social Media Platform** | [`Live Demo`](https://github.com/notgyashu) | [`View Code`](https://github.com/notgyashu)
 
-![MERN Stack](https://img.shields.io/badge/MERN-FullStack-47A248?style=flat-square)
-![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-Responsive-38B2AC?style=flat-square)
+![React](https://img.shields.io/badge/React-UI-61DAFB?style=flat-square&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-Responsive-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-Realtime-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Backend-000000?style=flat-square&logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTP-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-00A86B?style=flat-square&logo=security&logoColor=white)
 
-- Built complete social network with AI-powered content recommendations
-- Implemented secure authentication reducing login issues by 15%
-- Developed real-time chat system with WebSocket integration
-- Created responsive design with modern UI/UX principles
+
+- Built a full-stack social media app with secure authentication, reduced login issues by 15%. 
+- Added Profile Management real-time chat and follow system features to enhance user connectivity. 
+- Created intuitive interfaces for posts, likes, comments, and updates to boost engagement. 
 
 ---
 
@@ -143,10 +167,9 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 ![Supercollider](https://img.shields.io/badge/Supercollider-Audio_Synthesis-FF6F00?style=flat-square)
 ![TensorFlow Lite](https://img.shields.io/badge/TFLite-Gesture_Recognition-FF6F00?style=flat-square)
 
-- Developed AI-powered musical instrument with gesture recognition
-- Implemented real-time audio synthesis using machine learning
-- Built hardware-software interface with sensor fusion capabilities
-- Created seamless multi-instrument synchronization system
+- Developed an interactive musical instrument using a microcontroller, LDRs, and motion sensors. 
+- Programmed in C++ and Supercollider to generate tones based on real-time hardware interactions. 
+- Designed for user-friendly operation and seamless synchronization with other instruments.
 
 ---
 
@@ -175,14 +198,13 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 
 ## 📫 Let's Connect
 
-I'm always excited to discuss AI projects, innovative ideas, or potential collaborations. Let's build the future together!
+I'm always excited to discuss projects, innovative ideas, or potential collaborations. Let's build the future together!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email-rahmangyashu178@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmangyashu178@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gyashu.vercel.app-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Gyashu_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyashu-rahman)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-notgyashu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/notgyashu)
 
 </div>
 
