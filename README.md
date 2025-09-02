@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2C5D9B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyashu-rahman-299627224/)
 [![LeetCode](https://img.shields.io/badge/⚡_LeetCode-F79F1F?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rahmangyashu178/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B4B4B?style=flat-square&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-rahmangyashu178@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmangyashu178@gmail.com)
 
 <details>
 <summary>See more (Click to Expand)</summary>
