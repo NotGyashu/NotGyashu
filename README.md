@@ -221,7 +221,7 @@ I'm always excited to discuss projects, innovative ideas, or potential collabora
 
 [![Email](https://img.shields.io/badge/📧_Email-rahmangyashu178@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmangyashu178@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gyashu.vercel.app-000000?style=flat-square&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Gyashu_Rahman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyashu-rahman)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Gyashu_Rahman-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyashu-rahman-299627224/)
 
 </div>
 
