@@ -190,28 +190,23 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 
 </details>
 
-## 📊 GitHub Analytics
+ ## 🌟 Core Competencies
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgyashu&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" />
+    </td>
+    <td>
+      
+  - **🤖 AI/ML Engineering:** Building and deploying end-to-end ML pipelines  
+  - **🚀 System Architecture:** Designing scalable, high-performance systems  
+  - **🔧 Full-Stack Development:** Proficiency across backend & frontend  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notgyashu&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notgyashu&layout=compact&theme=radical&bg_color=0d1117&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=notgyashu&theme=radical&background=0d1117&hide_border=true)
+    </td>
+  </tr>
+</table>
 
-</div>
-
----
-
-## 🌟 Core Competencies
-
-- **🤖 AI/ML Engineering:** End-to-end machine learning pipeline development
-- **🚀 System Architecture:** Designing scalable AI-powered backend systems
-- **⚡ Performance Optimization:** Algorithm efficiency and bundle optimization
-- **🔧 Full-Stack Development:** Proficiency across entire development stack
-- **🧠 Problem Solving:** Strong algorithmic thinking (600+ LeetCode problems)
-- **💡 Innovation:** Transforming research concepts into production applications
-
----
 
 ## 📫 Let's Connect
 
