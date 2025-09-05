@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4B4B4B?style=flat-square&logo=About.me&logoColor=white)](https://gyashu.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-rahmangyashu178@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmangyashu178@gmail.com)
 
----
 
 ## 🚀 About Me
 
