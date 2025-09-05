@@ -11,16 +11,31 @@
 <summary>See more (Click to Expand)</summary>
   
 ---
-  
+
 ## 🚀 About Me
 
-I'm a passionate engineer who thrives on building scalable systems and innovative AI-powered solutions across multiple domains. I specialize in creating performant applications that bridge the gap between cutting-edge AI research and production-ready systems.
+I'm a software engineer passionate about building **scalable, AI-powered systems** that bridge research and production.  
+I thrive at the intersection of **AI/ML, system design, and performance optimization** — turning complex ideas into fast, reliable applications.
 
-- 🔭 **Currently Building:** High-performance AI systems and developer tools
-- 🌱 **Exploring:** Advanced ML architectures, distributed systems, and compiler design
-- 💡 **Passion:** Transforming complex AI concepts into practical, scalable applications
-- 🏆 **LeetCode:** 1700+ rating (600+ problems solved)
-- ⚡ **Fun Fact:** I enjoy solving problems at the intersection of hardware and AI
+<table>
+<tr>
+<td width="65%">
+
+- 🔭 **Currently:** Building high-performance AI systems & developer tools  
+- 🌱 **Exploring:** Advanced ML architectures & distributed systems  
+- 🏆 **Problem Solving:** 600+ LeetCode problems (1700+ rating)  
+
+</td>
+<td width="35%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgyashu&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" width="400"/>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
@@ -189,24 +204,6 @@ I'm a passionate engineer who thrives on building scalable systems and innovativ
 ---
 
 </details>
-
- ## 🌟 Core Competencies
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgyashu&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" />
-    </td>
-    <td>
-      
-  - **🤖 AI/ML Engineering:** Building and deploying end-to-end ML pipelines  
-  - **🚀 System Architecture:** Designing scalable, high-performance systems  
-  - **🔧 Full-Stack Development:** Proficiency across backend & frontend  
-
-    </td>
-  </tr>
-</table>
-
 
 ## 📫 Let's Connect
 
