@@ -11,8 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a software engineer passionate about building **scalable, high-performance systems** that bridge low-level optimization and production reliability.  
-I thrive at the intersection of **systems programming, performance engineering, and full-stack development** — turning complex ideas into fast, production-ready applications.
+Full-stack engineer with experience building scalable, user-focused 0→1 products. Delivered platforms serving 1,000+ users,
+AI-powered tools, and high-performance dashboards using React, Node, MySQL, and Rust/WASM. Strong execution, systems
+thinking, and product mindset.
 
 <table>
 <tr>
@@ -20,7 +21,7 @@ I thrive at the intersection of **systems programming, performance engineering, 
 
 - 🔭 **Currently:** Building high-performance systems & developer tools  
 - 🌱 **Exploring:** Systems architecture, low-latency optimization & distributed systems  
-- 🏆 **Problem Solving:** 650+ LeetCode problems (1700+ rating)  
+- 🏆 **Problem Solving:** 650+ LeetCode problems (1780+ rating)  
 
 </td>
 <td width="35%">
@@ -51,19 +52,7 @@ I thrive at the intersection of **systems programming, performance engineering, 
     <img src="https://img.shields.io/badge/SIMD-AVX2-4B0082?style=flat-square" alt="SIMD" />
     <img src="https://img.shields.io/badge/Lock--free-Concurrency-FF6347?style=flat-square" alt="Lock-free" />
     <img src="https://img.shields.io/badge/HTTP/2-Multiplexing-073551?style=flat-square" alt="HTTP/2" />
-    <img src="https://img.shields.io/badge/RocksDB-Persistence-FF6347?style=flat-square" alt="RocksDB" />
     <img src="https://img.shields.io/badge/Tokio-Async-000000?style=flat-square" alt="Tokio" />
-  </div>
-
-  <!-- AI/ML & Data Science -->
-  <div style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-    <span style="font-weight: bold; line-height: 1;">AI/ML & Data Science:</span>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
   </div>
 
   <!-- Frontend Development -->
@@ -97,14 +86,6 @@ I thrive at the intersection of **systems programming, performance engineering, 
     <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   </div>
-
-  <!-- Embedded & IoT -->
-  <div style="display: flex; align-items: center; gap: 6px; flex-wrap: wrap;">
-    <span style="font-weight: bold; line-height: 1;">Embedded & IoT:</span>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-    <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-    <img src="https://img.shields.io/badge/IoT-333333?style=flat-square&logo=iot&logoColor=white" alt="IoT" />
-  </div>
 </div>
 
 ## 🏗️ Featured Projects
@@ -120,11 +101,12 @@ I thrive at the intersection of **systems programming, performance engineering, 
 ![SIMD](https://img.shields.io/badge/SIMD-AVX2-4B0082?style=flat-square)
 ![CMake](https://img.shields.io/badge/CMake-Build-064F8C?style=flat-square)
 
-- Engineered high-throughput crawler with hybrid concurrency (work-stealing + lock-free structures) and 256-shard rate limiting for scalable politeness enforcement.
-- Implemented HTTP/2 multiplexed networking with connection pooling, conditional GETs, and TLS verification achieving low-latency multi-connection efficiency.
-- Optimized with SIMD/AVX2-accelerated HTML parsing delivering 10× CPU throughput improvement in parsing workloads.
-- Built strict robots.txt compliance system with dual-cache (memory + RocksDB) supporting crawl-delay and per-domain policy enforcement.
-- Designed fault-tolerant architecture with circuit breakers, crash recovery, and RocksDB-backed persistence for production reliability.
+- Created an open-source, cross-platform webpage analysis engine with 1,000+ downloads across Rust, WASM, CLI,
+and C++ interfaces — delivering actionable insights on SEO, accessibility, and performance.
+- Enabled tailored quality evaluation for diverse web domains by designing a modular scoring system supporting 8+
+analysis profiles (e-commerce, news, portfolio, etc.) and customizable thresholds.
+- Attained ultra-fast performance of less than 100ms per page and 180+ pages/sec in batch mode by developing
+parallelized DOM parsing, connection pooling, and achieving a 36–40× throughput gain over sequential execution.y.
 
 ---
 
@@ -139,11 +121,12 @@ I thrive at the intersection of **systems programming, performance engineering, 
 ![C++](https://img.shields.io/badge/C++-FFI-00599C?style=flat-square)
 ![Tokio](https://img.shields.io/badge/Tokio-Async-000000?style=flat-square)
 
-- Built cross-platform analyzer deploying from single codebase to 4 targets (Rust, WASM, CLI, C++) via trait-based async runtime abstraction.
-- Achieved 36-40× performance improvement through DOM cache optimization delivering sub-100ms analysis and 180+ pages/sec batch throughput.
-- Engineered profile compiler generating optimized MetricScorer graphs from JSON with per-metric thresholds, weights, and custom scoring logic.
-- Reduced output size by 98.8% via field selectors and compact serialization while maintaining complete metric coverage.
-- Published with production-ready WASM builds (TypeScript bindings) and C++ staticlib (CMake integration) for seamless cross-platform adoption.
+- Built a high-performance web crawler capable of fetching 100+ pages/sec, powered by multi-threaded scheduling
+and domain-aware rate limiting across 256 partitions for large-scale indexing.
+- Ensured uninterrupted crawling with minimal data loss by implementing a RocksDB-backed persistence and crash
+recovery system, enabling safe checkpointing and auto-resume.
+- Reduced average fetch time to 0.5–2.0s and maintained a low memory footprint of less than 20MB by optimizing the
+network stack with HTTP/2 multiplexing, connection pooling, and SIMD parsing.
 
 ---
 <details>
