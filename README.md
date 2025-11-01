@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gyashu Rahman
 
-**Software Engineer | High-Performance Systems | Scalable Architect**
+**Software Engineer | Full Stack | High-Performance Systems | Scalable Architect**
 
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-2C5D9B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyashu-rahman-299627224/)
 [![LeetCode](https://img.shields.io/badge/⚡_LeetCode-c77a0a?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/rahmangyashu178/)
